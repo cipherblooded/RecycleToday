@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627089980488",
+    "firebase_url": "https://recycletoday-45b72.firebaseio.com",
+    "project_id": "recycletoday-45b72",
+    "storage_bucket": "recycletoday-45b72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627089980488:android:1d299c481b12a2572d2c7d",
+        "android_client_info": {
+          "package_name": "com.appintuitions.recycletoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627089980488-b18qmkh9i8t42mnsv2eogmg02q6ork6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appintuitions.recycletoday",
+            "certificate_hash": "0738423e553d82f7348ac29a33d38991c5bbac57"
+          }
+        },
+        {
+          "client_id": "627089980488-n1hr11kga6v7u4udji2vevcu1nquqvhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKl3mEKlKLUroCdNjBTUhKM6x2m7LLpec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627089980488-n1hr11kga6v7u4udji2vevcu1nquqvhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
